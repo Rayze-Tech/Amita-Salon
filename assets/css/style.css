@@ -1797,3 +1797,30 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+#footer .salon {
+  text-align: center;
+  font-size: 1px;
+  color:#eeeeee;
+}
+#footer .salon a {
+  text-align: center;
+  font-size: 1px;
+  color:#eeeeee;
+}
+#footer .salon a:link {
+  text-align: center;
+  font-size: 1px;
+  color:#eeeeee;
+}
+#footer .salon a:hover{
+  text-align: center;
+  font-size: 1px;
+  color:#eeeeee;
+}
+#footer .salon a:active {
+  text-align: center;
+  font-size: 1px;
+  color:#eeeeee;
+}
+
